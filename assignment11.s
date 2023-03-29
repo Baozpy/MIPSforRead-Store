@@ -1,8 +1,6 @@
 ###########################################################
 # Assignment #: 11
-#  Name: Baozan Yan
-#  ASU email: by23@asu.edu
-#  Course: CSE/EEE230, your lecture time such as T/Th 1:30pm
+#  
 #  Description:  reads in numbers and store them in an array, then prints the original content of the array. Then it should ask a user to enter another floating number. 
 ###########################################################
 
